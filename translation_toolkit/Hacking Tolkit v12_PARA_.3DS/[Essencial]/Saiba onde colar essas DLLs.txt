@@ -1,0 +1,3 @@
+C:\Windows\System32
+
+se não fizer isso, pdoe dar erro ao gerar a .CIA ou .3DS
